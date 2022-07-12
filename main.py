@@ -9,7 +9,7 @@ if start == 'y':
     sum = x + y
     answer = input(str(x)+' + '+ str(y)+': ')
     if answer == str(sum):
-        print('wel done')
+        print('well done')
     else:
         print('try again later')
 
